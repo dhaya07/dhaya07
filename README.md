@@ -243,8 +243,8 @@ I work at the intersection of **hardware and software** — designing and verify
 ```
 ✔  Linux BSP development — Yocto, Buildroot, custom meta-layers
 ✔  Board bring-up from bare silicon — schematic review to booting Linux
-✔  Firmware engineering — bare-metal C, RTOS, HAL, device drivers
-✔  Deep protocol knowledge — UART, SPI, I2C, Ethernet, CAN, USB
+✔  Firmware engineering — bare-metal C, RTOS, device drivers
+✔  Deep protocol knowledge — UART, SPI, I2C, Ethernet, USB
 ✔  Hardware debug — oscilloscope, logic analyzer, JTAG/SWD, GDB
 ✔  Platforms — Renesas RZ/G2L, RA6E2, RL786 | STM32 | RPi | ESP32
 ✔  Open to Embedded Linux / Firmware / BSP roles — internship or full-time
