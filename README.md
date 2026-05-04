@@ -23,24 +23,11 @@
 
 ## 🔧 About Me
 
-```c
-typedef struct {
-char *degree;
-char *college;
-char *location;
-char *focus[];
-char *mindset;
-} Engineer;
+I am an embedded systems enthusiast with hands-on experience in microcontrollers, communication protocols, and hardware-software integration. I enjoy building real-world systems involving ESP32, UWB modules, and low-level interfaces like UART, SPI, and I2C.
 
-Engineer me = {
-    .degree   = "B.E / B.Tech — Electronics & Communication / Electronics and Communication Engineer",
-    .college  = "Jansons Institute of Technology",
-    .location = "Tiruppur, TamilNadu, India 🇮🇳",
-.focus    = { "Embedded Linux", "Yocto Project", "Board Bring-Up",
-             "Firmware", "RTOS", "Hardware Testing", "Device Drivers" },
-.mindset  = "Write code that runs bare-metal. Build systems that last."
-};
-```
+My work focuses on understanding systems at a fundamental level—how data moves, how hardware interacts, and how reliable solutions are built from the ground up. I actively develop and document projects that reflect practical problem-solving and engineering thinking.
+
+I am continuously exploring advanced concepts in embedded design, wireless communication, and system architecture.
 
 I work at the intersection of **hardware and software** — designing and verifying embedded systems from silicon bring-up to production-ready Linux images. My work spans custom BSPs, bare-metal firmware, and protocol-level debugging.
 
