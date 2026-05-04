@@ -48,8 +48,7 @@ I work at the intersection of **hardware and software** — designing and verify
 <td><b>Linux & Yocto</b></td>
 <td>
  <img src="https://img.shields.io/badge/Yocto%20Project-5A9E3E?style=flat-square&logo=linux&logoColor=white"/>
- <img src="https://img.shields.io/badge/OpenEmbedded-000000?style=flat-square&logo=linux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Buildroot-333333?style=flat-square&logo=linux&logoColor=lime"/>
+  <img src="https://img.shields.io/badge/Buildroot-333333?style=flat-square&logo=linux&logoColor=lime"/>
  <img src="https://img.shields.io/badge/Device%20Tree-FCC624?style=flat-square&logo=linux&logoColor=black"/>
  <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </td>
@@ -72,7 +71,6 @@ I work at the intersection of **hardware and software** — designing and verify
  <img src="https://img.shields.io/badge/SPI-4A90D9?style=flat-square&logo=serial&logoColor=white"/>
  <img src="https://img.shields.io/badge/I2C-7B61FF?style=flat-square&logo=serial&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ethernet-0078D4?style=flat-square&logo=ethernet&logoColor=white"/>
- <img src="https://img.shields.io/badge/CAN%20Bus-333333?style=flat-square&logo=canbus&logoColor=lime"/>
  <img src="https://img.shields.io/badge/USB-009AC7?style=flat-square&logo=usb&logoColor=white"/>
 </td>
 </tr>
@@ -82,18 +80,15 @@ I work at the intersection of **hardware and software** — designing and verify
  <img src="https://img.shields.io/badge/FreeRTOS-003153?style=flat-square&logo=freertos&logoColor=white"/>
  <img src="https://img.shields.io/badge/Bare%20Metal-1E1E1E?style=flat-square&logo=assembly&logoColor=lime"/>
  <img src="https://img.shields.io/badge/U--Boot-333333?style=flat-square&logo=linux&logoColor=white"/>
- <img src="https://img.shields.io/badge/HAL%20Drivers-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Tools & Debug</b></td>
 <td>
  <img src="https://img.shields.io/badge/GDB-FF4500?style=flat-square&logo=gnu&logoColor=white"/>
- <img src="https://img.shields.io/badge/OpenOCD-333333?style=flat-square&logo=openocd&logoColor=lime"/>
  <img src="https://img.shields.io/badge/J--Link-0073A8?style=flat-square&logo=segger&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oscilloscope-00A86B?style=flat-square&logo=siglent&logoColor=white"/>
  <img src="https://img.shields.io/badge/Logic%20Analyzer-FF6600?style=flat-square&logo=saleae&logoColor=white"/>
- <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </td>
